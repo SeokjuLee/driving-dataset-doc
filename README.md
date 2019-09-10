@@ -6,4 +6,4 @@ published in ***British Machine Vision Conference (BMVC) 2019***.
 
 ※ The dataset is under preparation. Please stay tuned!
 
-<img src="./collage.png" width="400">
+<img src="./misc/collage.png" width="400">
