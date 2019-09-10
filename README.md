@@ -19,7 +19,7 @@ published in ***British Machine Vision Conference (BMVC) 2019***.
 <img src="./misc/table.jpg">
 
 
-### Citation
+## Citation
 Please cite [our paper](http://bmvc2019.org/wp-content/uploads/papers/0002-paper.pdf) in your publications if it helps your research:
     
     @InProceedings{Lee_2019_BMVC,
