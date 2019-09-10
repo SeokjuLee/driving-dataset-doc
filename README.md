@@ -1,6 +1,6 @@
 # Driving Visuomotor Dataset
 
-This is an instruction page to use our dataset from 
+This is a dataset instruction page for
 **"Visuomotor Understanding for Representation Learning of Driving Scenes"**,
 published in ***British Machine Vision Conference (BMVC) 2019***.
 
